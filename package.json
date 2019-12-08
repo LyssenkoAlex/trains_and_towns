@@ -1,0 +1,23 @@
+{
+  "name": "trains_and_towns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyssenkoAlex/trains_and_towns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyssenkoAlex/trains_and_towns/issues"
+  },
+  "homepage": "https://github.com/LyssenkoAlex/trains_and_towns#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-standard": "^3.0.1"
+  }
+}
